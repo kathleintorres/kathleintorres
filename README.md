@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Kathlein Torres
 
-<!--
-**kathleintorres/kathleintorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Analysis and Systems Development Student (ADS)
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Currently learning Python, SQL, Power BI, Git and GitHub
+- 🎮 Developing the **Dream Stage** game
+- 📒 Creating a **Digital Planner**
+- 🌱 Always learning new technologies
+
+## 🛠️ Technologies I'm Learning
+
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Power BI
+- 🌿 Git & GitHub
+- 🎮 GDevelop
+
+## 🎯 Goals
+
+- Build a strong software development portfolio
+- Become a Software Developer
+- Create useful and creative applications
+
+---
+
+⭐ Thanks for visiting my profile!
