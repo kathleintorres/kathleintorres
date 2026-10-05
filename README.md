@@ -23,6 +23,14 @@
 - Become a Software Developer
 - Create useful and creative applications
 
+## 📜 Certifications
+
+### 🤖 AI Tools — UNIFEOB
+
+- 20-hour course
+- Completed in October 2026
+- [📄 View certificate](./certificado-ferramentas-ia-unifeob.pdf)
+
 ---
 
 ⭐ Thanks for visiting my profile!
